@@ -1,0 +1,22 @@
+
+extensiones de visual studio code
+instalar haskell suport
+
+Simple GHC
+
+https://www.haskell.org/platform/windows.html
+
+choco install haskell-dev
+refreshenv
+https://www.haskell.org/documentation/
+
+https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/ghci.html
+
+ghci  para ejecutar un proyecto
+
+https://wiki.haskell.org/Es/Haskell_en_5_pasos
+ghci
+ghc -o hola hola.hs
+ghc -o hola hola.hs
+
+ te generara un hola.exe que podrás ejecutar en windows cmd

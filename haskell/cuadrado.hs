@@ -1,3 +1,4 @@
 --programa de cuadrado
-cuadrado:: Integer ->Integer
-cuadrado n = n*n
+module Ejemplouadrado where
+main:: Integer ->Integer
+main n = n*n
